@@ -1,6 +1,7 @@
 /* CHANGES:
     -change the color
     -add clouds or gradient colors around the page that move
+    -put a rain map
 */
 :root {
     --bg-color1: #212529;
@@ -359,3 +360,4 @@ hr {
     }
 
 }
+
